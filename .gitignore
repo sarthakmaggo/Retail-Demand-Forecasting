@@ -66,6 +66,7 @@ ENV*/
 *.ipynb
 *.ipynb_meta
 *.ipynb.json
+!notebooks/model_training.ipynb
 
 # ========================================
 # OS Specific Files
